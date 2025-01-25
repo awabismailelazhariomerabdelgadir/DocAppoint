@@ -1,0 +1,189 @@
+ul{
+   list-style-type: none;
+}
+.div01 li{
+    float: left;
+}
+.div01 h2{
+    padding-top: 20px;
+    color: brown;
+    padding-left: 40px;
+    
+}
+.div01{
+    background-color: white;
+    padding-bottom: 20px;
+}
+.div02 li{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.div03 li{
+    padding-left: 70px;
+    padding-top: 20px;
+    
+}
+.div04 li a{
+    float: left;
+    padding-left: 40px;
+    color: black;
+    text-decoration: none;
+    
+}
+.div04{
+    background-color: gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.div04 a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.div05{
+    background-color: gainsboro;
+}
+.div05 li{
+    float: left;
+    padding-left: 40px;
+}
+.div05 li select{
+    font-size: larger;
+
+}
+.item01{
+    background-color: gainsboro;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+.item01 option{
+    color: black;
+    text-align: center;
+}
+.div06{
+    height: 500px;
+}
+.div06 img{
+    padding-right: 150px;
+}
+.div07{
+    height: 500px;
+}
+.div07 img{
+    padding-right: 150px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.search-box{
+    width: 700px;
+    padding: 10px;
+    font-size: 35px;
+}
+.div08 li{
+    float: left;
+    padding-left: 165px;
+}
+.div08{
+    padding-bottom: 20px;
+}
+.div08 li a{
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+}
+.div08 li span{
+    color: lightseagreen;
+    font-size: larger;
+    text-decoration: none;
+}
+.div08 a:hover{
+    text-decoration: solid;
+    color: blue;
+}
+.div09 li{
+    float: left;
+    padding-left: 340px;
+}
+
+.div09 li a{
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+}
+.div09 li span{
+    color: lightseagreen;
+    font-size: larger;
+    text-decoration: none;
+}
+.div09 a:hover{
+    text-decoration: solid;
+    color: blue;
+}
+.div08 span:hover{
+    color: blue;
+}
+.div09 span:hover{
+    color: blue;
+}
+.div10{
+    padding-left: 70px;
+}
+.div10 li{
+    color: lightseagreen;
+}
+h1{
+    font-size: 30px;
+    padding-left: 100px;
+}
+h5{
+    font-size: 15px;
+    padding-left: 100px;
+}
+
+.div11 li{
+    float: left;
+    padding-left: 70px;
+
+}
+h4{
+    font-size: 15px;
+    padding-left: 30px;
+
+}
+h3{
+    font-size: 20px;
+}
+.item02{
+    color: lightseagreen;
+}
+.item03 h1{
+    font-size: 35px;
+}
+.item04 span{
+    color: lightseagreen;
+
+}
+.div12 li{
+    float: left;
+}
+.div13{
+    background-color: black;
+    color: oldlace;
+    padding-top: 40px;
+}
+.div13 h2{
+    color: brown;
+}
+.div13 h4{
+    font-size: 20px;
+
+}
+.div13 li a{
+    text-decoration: none;
+    color: wheat;
+    padding-left: 30px;
+    
+}
